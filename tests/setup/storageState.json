@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIwOWIyYzgzNy0zM2E1LTQ1ODYtOTRjZS1lM2VlZDg4OGUzZTEiLCJ1c2VySWQiOiIwOWIyYzgzNy0zM2E1LTQ1ODYtOTRjZS1lM2VlZDg4OGUzZTEiLCJ1bmlxdWVfbmFtZSI6ImFsaSIsImVtYWlsIjoiYXptYXRob3plZXIyMDAwQGdtYWlsLmNvbSIsIlRlbmFudElkIjoiNGFhZGZkNzUtMjg4Ny00MGU2LWJmZTYtYzJiY2FjZDgwOWJiIiwiVXNlclR5cGUiOiJPcmdhbml6YXRpb24iLCJyb2xlIjoiT3JnQWRtaW4iLCJuYmYiOjE3NzIwMTU4OTEsImV4cCI6MTc3MjA0NDY5MSwiaWF0IjoxNzcyMDE1ODkxLCJpc3MiOiJ2U2VuZERvY3NJc3N1ZXIiLCJhdWQiOiJ2U2VuZERvY3NBdWRpZW5jZSJ9.6QihxEVGqBBWWlu7OdCberRnXJMMzAG1ixwf_PUgQlQ",
+      "domain": "dev.vsendocs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
